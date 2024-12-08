@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon portfolio</title>
+    <link rel="stylesheet" href="Protfolio.CSS">
+</head>
+<body>
+    <header>
+        <h1>Bienvenus sur mon portfolio</h1>
+        <p>Decouvrez mes projet, mes competences et mon parcours </p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#about"> A propres</a></li>
+            <li><a href="#competence">Competences</a></li>
+            <li><a href="#projet">projet</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id ="about">
+        <h2>A prore de moi</h2>
+        <p>Je suis une etudiante en 2eme année informatique de gestion je suis passionné par la creation web et d'application interactive</p>
+        <details>
+            <summary>Voir plus</summary>
+        <p>j'ai commencé à coder à l'age de 19 ans et depuis contenue d'exploiter differant languages et technologies</p>
+        </details>
+    </section>
+
+    <section id ="competences">
+        <h2>Mes Competences</h2>
+        <h3>Les languages de programmations : </h3>
+        <ul>
+            <li>Python</li>
+            <li>C</li>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+    </section>
+
+    <section id ="projet">
+        <h2>Mes projects</h2>
+        <article>
+            <h3>Projet 1 : Mon site Personnel</h3>
+            <p>Un site web responsive que j'ai créé pour presenter mon parcours et mes projet</p>
+        
+        </article>
+
+        <article>
+            <h3>Projet 3: Un systeme de gestion </h3>
+            <p>
+                J'ai crée un systeme de gestion de bibliotheque 
+            </p>
+        </article>
+    </section>
+    <section id="contact">
+        <h2>
+            Mon contact
+        </h2>
+        <ul>
+            <li><a href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
+
+        </ul>
+        <p>Mon numero de Telephone : 54091350</p>
+
+
+    </section>
+    
+</body>
+</html>
