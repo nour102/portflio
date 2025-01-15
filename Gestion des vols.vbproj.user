@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="GestionDesVols.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recu - Copie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recu.Designer - Copie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation - Copie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.Designer - Copie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
